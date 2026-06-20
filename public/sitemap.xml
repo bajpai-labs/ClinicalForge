@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://clinicalsim.bajpailabs.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clinicalsim.bajpailabs.com/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clinicalsim.bajpailabs.com/" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://clinicalsim.bajpailabs.com/og-social.jpg</image:loc>
+      <image:title>ClinicalSim: Drug Outcome Simulation by Bajpai Labs</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://clinicalsim.bajpailabs.com/services</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clinicalsim.bajpailabs.com/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clinicalsim.bajpailabs.com/services" />
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://clinicalsim.bajpailabs.com/og-social.jpg</image:loc>
+      <image:title>ClinicalSim: Clinical Simulation Services</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://clinicalsim.bajpailabs.com/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clinicalsim.bajpailabs.com/pricing" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clinicalsim.bajpailabs.com/pricing" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://clinicalsim.bajpailabs.com/og-social.jpg</image:loc>
+      <image:title>ClinicalSim: Pricing and Engagement Models</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://clinicalsim.bajpailabs.com/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clinicalsim.bajpailabs.com/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clinicalsim.bajpailabs.com/about" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://clinicalsim.bajpailabs.com/og-social.jpg</image:loc>
+      <image:title>ClinicalSim: About Our Mission</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://clinicalsim.bajpailabs.com/case-studies</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clinicalsim.bajpailabs.com/case-studies" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clinicalsim.bajpailabs.com/case-studies" />
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://clinicalsim.bajpailabs.com/og-social.jpg</image:loc>
+      <image:title>ClinicalSim: Case Studies</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://clinicalsim.bajpailabs.com/case-studies/phase-ii-hepatotoxicity-prediction</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://clinicalsim.bajpailabs.com/case-studies/oncology-pkpd-dose-optimization</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://clinicalsim.bajpailabs.com/case-studies/autoimmune-biologic-trial-success</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://clinicalsim.bajpailabs.com/blog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clinicalsim.bajpailabs.com/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clinicalsim.bajpailabs.com/blog" />
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://clinicalsim.bajpailabs.com/og-social.jpg</image:loc>
+      <image:title>ClinicalSim: Research and Insights Blog</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://clinicalsim.bajpailabs.com/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://clinicalsim.bajpailabs.com/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://clinicalsim.bajpailabs.com/contact" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://clinicalsim.bajpailabs.com/og-social.jpg</image:loc>
+      <image:title>ClinicalSim: Schedule a Consultation</image:title>
+    </image:image>
+  </url>
+</urlset>
